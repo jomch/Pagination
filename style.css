@@ -1,0 +1,17 @@
+.Pagination ul {
+	list-style:none;
+}
+.Pagination ul li {
+	float:left;margin-left:5px;
+}
+.Pagination ul li a , .Pagination ul li span {
+	font-size:13px;
+	padding:6px 12px;
+	text-decoration:none;
+	line-height:1.42857143;
+	border:1px solid #ddd;
+	background-color:#fff;
+}
+.Pagination ul li a:hover { 
+	background-color:#ddd;
+}
